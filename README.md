@@ -14,6 +14,11 @@ all the genre associated with the movie
 presence of genre ‘Drama’ is indicated by a ‘1’ in the first position of the prediction string
 and an absence of this genre is indicated by ‘0 in the first position
 
+## Reach out to me
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/prabhakargaddam/)
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](<mailto:prabhakargaddam1729@gmail.com>)
+
+<br/>
 ## Basic Model (term-document matrix)
 
 - Analyze the data and preprocess it if needed
