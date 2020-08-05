@@ -34,3 +34,10 @@ the model
 improve the performance of the model
 - Custom feature engineering would be deemed successful only if the model performs
 better than the model of part 2
+
+## Execution
+
+Upload train.csv ,test.csv and jupter notebooks to [Google Colab](https://colab.research.google.com/) .After running for each notebook for certain time say (50 mins)              
+a file with extension .csv will be generated containg the predictions of given test data(test.csv)
+
+
