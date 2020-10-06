@@ -27,20 +27,24 @@ and an absence of this genre is indicated by ‘0 in the first position
 provided in the train set to predict the genres associated with a movie.
 - You should create a term-document matrix from the plots and use these as feature
 vectors for the machine learning model.
-!CountVectorizer Demo [](https://github.com/prabha1729/Multi-Label-Movie-Genre-Prediction/blob/master/Part-1.gif)
+- CountVectorizer Demo
+
+![CountVectorizer Demo](https://github.com/prabha1729/Multi-Label-Movie-Genre-Prediction/blob/master/Part-1.gif)
 ## TF-IDF to improve the model
 - Focussing on the summary of the movie, implement Term Frequency-Inverse Document
 Frequency (TF-IDF) based feature engineering technique to improve the performance of
 the model
 - Ideally, your model should improve performance from the previous step
-
+- TF-IDF Demo
+![TF-IDF Demo](https://github.com/prabha1729/Multi-Label-Movie-Genre-Prediction/blob/master/Part-2.gif)
 ## Feature Engineering (Word2vec)
 
 - Implement any one of the modern text-based feature engineering methodology to
 improve the performance of the model
 - Custom feature engineering would be deemed successful only if the model performs
 better than the model of part 2
-
+- Word2Vec Demo
+![Word2Vec Demo](https://github.com/prabha1729/Multi-Label-Movie-Genre-Prediction/blob/master/Part-3.gif)
 ## Execution
 
 - Upload train.csv ,test.csv and jupter notebooks to [Google Colab](https://colab.research.google.com/) .
