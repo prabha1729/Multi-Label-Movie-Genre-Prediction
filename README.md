@@ -36,6 +36,7 @@ Frequency (TF-IDF) based feature engineering technique to improve the performanc
 the model
 - Ideally, your model should improve performance from the previous step
 - TF-IDF Demo
+
 ![TF-IDF Demo](https://github.com/prabha1729/Multi-Label-Movie-Genre-Prediction/blob/master/Part-2.gif)
 ## Feature Engineering (Word2vec)
 
@@ -44,6 +45,7 @@ improve the performance of the model
 - Custom feature engineering would be deemed successful only if the model performs
 better than the model of part 2
 - Word2Vec Demo
+
 ![Word2Vec Demo](https://github.com/prabha1729/Multi-Label-Movie-Genre-Prediction/blob/master/Part-3.gif)
 ## Execution
 
