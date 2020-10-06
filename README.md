@@ -27,7 +27,7 @@ and an absence of this genre is indicated by ‘0 in the first position
 provided in the train set to predict the genres associated with a movie.
 - You should create a term-document matrix from the plots and use these as feature
 vectors for the machine learning model.
-
+![CountVectorizer Demo](https://github.com/prabha1729/Multi-Label-Movie-Genre-Prediction/blob/master/Part-1.gif)
 ## TF-IDF to improve the model
 - Focussing on the summary of the movie, implement Term Frequency-Inverse Document
 Frequency (TF-IDF) based feature engineering technique to improve the performance of
